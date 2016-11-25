@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TentaEntityFrameWork", "TentaEntityFrameWork\TentaEntityFrameWork.csproj", "{6D02B6BB-BEE9-4171-B23D-9D33347B69D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TentaDatabse3", "TentaDatabse3\TentaDatabse3.csproj", "{E7DAC721-BA66-4628-8B8D-5B0B184118DA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TentaNorthWind", "TentaNorthWind\TentaNorthWind.sqlproj", "{A170C5D0-A02A-459A-954A-AEADE44DE725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseTenta", "DatabaseTenta\DatabaseTenta.csproj", "{7D6C4583-B016-4BE2-8DEB-042759215F36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,20 @@ Global
 		{6D02B6BB-BEE9-4171-B23D-9D33347B69D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D02B6BB-BEE9-4171-B23D-9D33347B69D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D02B6BB-BEE9-4171-B23D-9D33347B69D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DAC721-BA66-4628-8B8D-5B0B184118DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DAC721-BA66-4628-8B8D-5B0B184118DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DAC721-BA66-4628-8B8D-5B0B184118DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DAC721-BA66-4628-8B8D-5B0B184118DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A170C5D0-A02A-459A-954A-AEADE44DE725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A170C5D0-A02A-459A-954A-AEADE44DE725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A170C5D0-A02A-459A-954A-AEADE44DE725}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A170C5D0-A02A-459A-954A-AEADE44DE725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A170C5D0-A02A-459A-954A-AEADE44DE725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A170C5D0-A02A-459A-954A-AEADE44DE725}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7D6C4583-B016-4BE2-8DEB-042759215F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6C4583-B016-4BE2-8DEB-042759215F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6C4583-B016-4BE2-8DEB-042759215F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6C4583-B016-4BE2-8DEB-042759215F36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
